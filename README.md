@@ -6,6 +6,8 @@ This repository contains the work focusing on hyperparameter tuning for the Ant 
 
 Our primary contribution is the academic paper formatted for submission to the JATI (Journal of Applied Technology and Innovation):
 
+**[Jati_paper.pdf](https://github.com/xquan16/Ant_colony_optimization/blob/main/Jati_paper.pdf)**
+
 **"Tuning hyperparameters on the Ant Colony Optimization (ACO) algorithm's performance for solving the Traveling Salesman Problem (TSP)."**
 
 
